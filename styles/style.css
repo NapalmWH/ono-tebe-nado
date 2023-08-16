@@ -28,13 +28,13 @@
   font-size: 18px;
   font-style: normal;
   font-weight: normal;
-  line-height: normal;
   text-underline-position: under;
 }
 
 .header__link_active {
   text-decoration: none;
 }
+
 .header__logo {
   display: block;
   margin: 0 auto;
@@ -46,7 +46,7 @@
   font-size: 18px;
   font-weight: normal;
   font-style: normal;
-  line-height: 24.3px;
+  line-height: 135%;
   text-underline-position: under;
 }
 
@@ -118,9 +118,9 @@
   justify-self: right;
   font-size: 22px;
   font-weight: normal;
-  line-height: 28px;
+  line-height: 127%;
   text-transform: uppercase;
-  word-spacing: 18px;
+  word-spacing: 0.81em;
 }
 
 .bet-button {
@@ -255,7 +255,6 @@
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
-  line-height: normal;
   text-transform: uppercase;
 }
 
@@ -264,7 +263,6 @@
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  line-height: normal;
 }
 
 .about__text:last-of-type {
@@ -291,7 +289,6 @@
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: normal;
   text-underline-position: under;
 }
 
